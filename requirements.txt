@@ -6,3 +6,8 @@ python-multipart
 passlib[bcrypt]
 python-jose
 pydantic
+flask
+flask-cors
+psycopg2-binary
+python-dotenv
+gunicorn
